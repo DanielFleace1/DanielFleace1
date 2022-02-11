@@ -30,3 +30,4 @@ Up Next:
 
 Resume 
 -
+[DanielFleace.Resume](https://docs.google.com/document/d/1ZB0XhZuG2yzO4U77c57oLNXNJEIY0n_uF8tBcEyPykY/edit)
