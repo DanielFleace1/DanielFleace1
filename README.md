@@ -8,7 +8,8 @@ Comfortable with:
 - MongoDB,SQL
 - HTML/CSS
 - Heroku
-- Agile Development Framework/Version Control
+- Version Control
+- Agile Development Framework
 - Solidity 
 
 Currently working on:
