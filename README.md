@@ -1,4 +1,4 @@
-Self-taught software developer looking for a full-time job as a full-stack developer!
+Self-taught software engineer looking for a full-time job as a full-stack developer!
 
 Comfortable with:
 -
@@ -10,12 +10,11 @@ Comfortable with:
 - Heroku
 - Version Control
 - Agile Development Framework
-- Solidity 
 
 Currently working on:
 -
 - [HabitTrackerApp](https://danielshabittracker.herokuapp.com/) - Personal Project 1 used to track work and health habits each day. 
-- [Chingui.io](Chingui.io) Voage 37 - Working on a team to build a stock/crypto portfolio tracker. 
+- [Chingui.io](Chingui.io) Voage 37 - Working with  a team to build a gamified  stock/crypto portfolio tracker application. 
 - [Data Structures & Algorithms](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344202?start=0#content) - course to gain better computer science fundamentals.
 - [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - course to gain better computer science fundamentals.
 
