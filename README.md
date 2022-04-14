@@ -22,12 +22,3 @@ About me:
 - 
 Have been teaching myself software development full time starting in late 2021. Started with [Free Code Camp](https://www.freecodecamp.org/) and moved on to [Full Stack Open](https://fullstackopen.com/en/) as my first two learning resources. After completing the first 4 sections of FSO (see FullStackOpen repos), I took time off from the course to make my own MERN App (see habitTracker repos). I am currently working with Chingui Voyage 37 on my first collaborative project. Each week I dedicate some time improve my CS fundamentals with Harvard CS50 and a data structures and algorithms course. I've spent a little bit of time exploring the block chain space and have a basic understanding of block chain fundamentals, solidity , and smart contracts. 
 
-Up Next:
--
-- GraphQL
-- TypeScript  
-- Personal Project 2
-
-Resume 
--
-[DanielFleace.Resume](https://docs.google.com/document/d/1ZB0XhZuG2yzO4U77c57oLNXNJEIY0n_uF8tBcEyPykY/edit)
