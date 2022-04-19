@@ -14,7 +14,6 @@ Currently working on:
 -
 - Creating a portfolio Website to host my projects! 
 - [Data Structures & Algorithms](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344202?start=0#content) - course to gain better computer science fundamentals.
-- [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - course to gain better computer science fundamentals.
 
 About me:
 - 
