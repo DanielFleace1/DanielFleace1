@@ -1,6 +1,6 @@
 Self-taught software engineer looking for a full-time job as a full-stack developer!
 
-Comfortable with:
+Skills, Frameworks, Development Tools:
 -
 - JavaScript 
 - React
