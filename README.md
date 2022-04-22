@@ -1,5 +1,5 @@
-Self-taught software engineer looking for a full-time job as a full-stack developer!
-[Resume](https://drive.google.com/file/d/1t0pF4lBU2Ven00AYWGIVW2yOLKmKLBWr/view?usp=sharing)
+Self-taught software engineer looking for a full-time job as a full-stack developer!<br>
+[Resume](https://drive.google.com/file/d/1t0pF4lBU2Ven00AYWGIVW2yOLKmKLBWr/view?usp=sharing)<br>
 danielfleace.com
 
 Skills, Frameworks, Development Tools:
